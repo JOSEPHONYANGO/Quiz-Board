@@ -19,7 +19,7 @@ body{
 .logo-text{
     margin-top: 60px;
     font-size: 50px;
-    color: blue;
+    color: whitesmoke;
 }
 .links {
     width: 80%;
@@ -108,5 +108,5 @@ main{
     height: 100vh;
     background-size: cover;
     background-position: center;
-    color: white;
+    color: black;
 }
