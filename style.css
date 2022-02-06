@@ -59,6 +59,9 @@ body{
     text-decoration: none;
     color:white;
 }
+.links ul li a{
+    color:white;
+}
 .links2 ul{
     display: inline-flex;
     padding-left: 0;
