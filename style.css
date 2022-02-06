@@ -61,6 +61,7 @@ body{
 }
 .links ul li a{
     color:white;
+    text-decoration: none;
 }
 .links2 ul{
     display: inline-flex;
