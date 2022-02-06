@@ -103,3 +103,10 @@ h1{
     align-items: center;
     color: whitesmoke;
 }
+main{
+    background: url(./images/COMP\ CLUB.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
