@@ -96,6 +96,8 @@ body{
   padding: 16px;
   text-align: center;
   background-color: orange;
+  font-size: large;
+  margin-top: 100px;
 }
 h1{
     text-align: center;
