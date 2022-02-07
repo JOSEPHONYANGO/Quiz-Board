@@ -11,7 +11,7 @@ body{
 }
 #submit {
     border-radius: 5px;
-    background-color:blue;
+    background-color:orange;
     color:white;
     width: 200px;
     font-size: 40px;
@@ -61,6 +61,7 @@ body{
 }
 .links ul li a{
     color:white;
+    text-decoration: none;
 }
 .links2 ul{
     display: inline-flex;
@@ -102,7 +103,7 @@ body{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
   padding: 16px;
   text-align: center;
-  background-color: orange;
+  background-color:darkblue;
   font-size: large;
   margin-top: 100px;
 }
@@ -118,5 +119,10 @@ main{
     height: 100vh;
     background-size: cover;
     background-position: center;
-    color: black;
+    color:whitesmoke;
+}
+.button{
+    align-items: center;
+    justify-content: center;
+    flex: 50%;
 }
